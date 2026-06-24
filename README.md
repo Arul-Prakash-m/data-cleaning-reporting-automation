@@ -213,7 +213,7 @@ An interactive Power BI dashboard was developed using the cleaned dataset.
 
 ## Dashboard Preview
 
-<img width="100%" alt="Dashboard Preview" src="dashboard/dashboard_preview.png">
+<img width="2075" height="1200" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/031ef009-de2c-4904-88ef-7097423378dd" />
 
 ---
 
